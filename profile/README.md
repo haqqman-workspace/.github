@@ -16,15 +16,25 @@ Haqqman Workspace was created to:
 
 ---
 
-## 🚀 Active Platforms & Products
+## 🚀 Platforms & Products Status
 
-| Project             | Description                          | Status       |
+| Platforms             | Description                          | Status       |
 |---------------------|--------------------------------------|--------------|
 | `Agency`            | To be updated                        | ✅ Live     |
 | `Linkpane`          | To be updated                        | ✅ Live   |
 | `Seapane`           | To be updated                        | 🧪 Beta     |
 | `Business Affairs`  | To be updated                        | 🚧 In Dev |
 | `Canvaforce`        | To be updated                        | 🏗️ Planning |
+
+## 🚀 Enterprise Cloud Status
+
+| Platforms             | Description                          | Status       |
+|-----------------|--------------------------------------|--------------|
+| `SchoolCloud`   | To be updated                        | 🚧 In Dev     |
+| `HealthCloud`   | To be updated                        | ✅ Live   |
+| `Impact Cloud`  | To be updated                        | 🏗️ Planning     |
+| `HotelCloud`    | To be updated                        | 🚧 In Dev |
+| `HostelCloud`   | To be updated                        | ✅ Live |
 
 ---
 
