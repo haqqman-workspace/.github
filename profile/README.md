@@ -13,3 +13,76 @@ Haqqman Workspace was created to:
 - Facilitate seamless collaboration across departments
 - Improve transparency and accountability in ongoing work
 - Enable faster execution of ideas and initiatives
+
+---
+
+## 🚀 Active Platforms & Products
+
+| Project             | Description                          | Status       |
+|---------------------|--------------------------------------|--------------|
+| `Agency`            | To be updated                        | ✅ Live     |
+| `Linkpane`          | To be updated                        | ✅ Live   |
+| `Seapane`           | To be updated                        | 🧪 Beta     |
+| `Business Affairs`  | To be updated                        | 🚧 In Dev |
+| `Canvaforce`        | To be updated                        | 🏗️ Planning |
+
+---
+
+## 📌 Best Practices
+
+| Principle       | What it Means                                            |
+|-----------------|----------------------------------------------------------|
+| 🔍 Transparency | Share work early and in the open                         |
+| ✅ Consistency  | Use shared templates for issues, PRs, and project docs   |
+| 🧭 Accountability | Assign tasks, set due dates, and follow up respectfully |
+| 💬 Asynchronous | Keep updates in issues rather than private chats     |
+
+---
+
+## 📦 Resources & Shared Templates
+
+Inside [`Haqqman Resources`](https://github.com/haqqman/haqqman-workspace/resources), you’ll find:
+- Creative Handbook
+- Engineering Handbook
+- README + PR Templates
+- Collaboration & Process Guidelines
+- Onboarding Materials
+
+---
+
+## 👥 Teams & Roles
+
+Haqqman Workspace is used by the following teams:
+
+- 🧠 Product
+- 🎨 Design
+- 📣 Marketing
+- 👨‍💻 Engineering
+- 💳 Payments
+- 📊 Data & Ops
+- 💼 Leadership
+
+---
+
+## 🔐 Security & Access
+
+- All repos are private unless public release is intended.
+- Role-based permissions are used via GitHub Teams.
+- MFA is required for all members.
+
+---
+
+## 🛎️ Support & Requests
+
+Need help with managing an issue or project?
+
+1. Ping `@gracieagbam` through an approved relevant channel
+2. Tag the relevant stakeholder
+
+---
+
+## 🧭 Mission
+
+Haqqman Workspace isn’t just a GitHub org — it’s how we work together, stay organized, and build meaningful products and experiences as one team.
+
+Let’s make it count.
