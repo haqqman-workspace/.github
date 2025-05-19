@@ -62,15 +62,17 @@ Inside [`Haqqman Resources`](https://github.com/haqqman/haqqman-workspace/resour
 
 ## 👥 Teams & Roles
 
-Haqqman Workspace is used by the following teams:
+The following teams use Haqqman Workspace:
 
 - 🧠 Product
 - 🎨 Design
 - 📣 Marketing
 - 👨‍💻 Engineering
 - 💳 Payments
-- 📊 Data & Ops
+- 📊 Operations
 - 💼 Leadership
+- 🧑‍💼 HR
+- 🤝 Customer Affairs
 
 ---
 
