@@ -72,7 +72,7 @@ The following teams use Haqqman Workspace:
 - 📊 Operations
 - 💼 Leadership
 - 🧑‍💼 HR
-- 🤝 Customer Affairs
+- 🤝 Client Affairs
 
 ---
 
